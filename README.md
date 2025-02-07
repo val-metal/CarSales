@@ -18,7 +18,7 @@ Program je výsledkem požadovaného zadání, tedy obsahuje návrh struktury XM
 Na obrázku níže je zobrazená hlavní obrazovka s výzvou o vybrání XML souboru. Můžete si všimnout i jednoduchého menu.
 ![Screen1](https://raw.githubusercontent.com/val-metal/CarSales/master/CarSales/ScreenShots/scr1.png)
 Na dalším obrázku je již vidět hlavní obrazovka s načtenými daty ze souboru XML a mimo jiné je k dispozici tlačítko součet, díky kterému dostanete tabulku se součtem celkových cen prodaných modelů aut o víkendech.
-![Screen1](https://raw.githubusercontent.com/val-metal/CarSales/master/CarSales/ScreenShots/scr2.png)
+![Screen1](https://raw.githubusercontent.com/val-metal/CarSales/master/CarSales/ScreenShots/scr2.png) <br>
 Výsledná tabulka zobrazující, součet cen prodaných modelů aut o víkendech spolu s cenou s DPH.
 ![Screen1](https://raw.githubusercontent.com/val-metal/CarSales/master/CarSales/ScreenShots/scr3.png)
 
